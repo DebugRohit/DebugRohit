@@ -1,4 +1,4 @@
-<h2 align="left"><code>Hi 👋 I'm Rohit Pujari</code></h2>
+<h2 align="left"><code>Hi👋 I'm Rohit Pujari</code></h2>
 
 <p align="left"><code>Generative & Agentic AI Developer | Python Developer | SQL Data Analyst | Machine Learning Engineer | Business Analytics
 </code></p>
