@@ -15,9 +15,15 @@ Generative & Agentic AI Developer | Python Developer | SQL Data Analyst | Machin
 📫 Connect with me:
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitreads)
-[![iCloud Email](https://img.shields.io/badge/iCloud_Email-000000?logo=apple&logoColor=white)](mailto:rohitreads@icloud.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/rohitreads" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pujari-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="mailto:rohitreads@icloud.com" target="_blank">
+<img src="https://img.shields.io/badge/iCloud_Email-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+</p>
 <h2 align="left"><code>Tech Stack</code></h2>
 
 <!-- Your badges remain unchanged -->
