@@ -1,8 +1,8 @@
 <h2 align="left"><code>Hi 👋 I'm Rohit Pujari</code></h2>
 
-<p align="left">
+<p align="left"><code>
 Generative & Agentic AI Developer | Python Developer | SQL Data Analyst | Machine Learning Engineer | Business Analytics
-</p>
+</code>code></p>
 
 <h2 align="left"><code>About me</code></h2>
 
