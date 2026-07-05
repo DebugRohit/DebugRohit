@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Generative & Agentic AI | Python Developer | SQL Data Analyst | Machine Learning | Business Analyst</p>
+<p data-importer="text" align="left">Generative & Agentic AI Developer | Python Developer | SQL Data Analyst | Machine Learning Engineer | Business Analytics</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p data-importer="text" align="left">🚀 I'm currently working on - Machine Learning projects, Data Analytics solutions and AI-driven applications.<br>🤝 I'm looking for help with - building scalable AI solutions, improving ML models.<br>🗯️ Ask me about - Python, SQL, Data Analytics, Machine Learning and AI projects.<br><br>How to reach me:</p>
+<p data-importer="text" align="left">🚀 🚀 I'm currently working on Machine Learning projects, data analytics solutions, and AI-driven applications.<br>🤝 🤝 I'm looking for help with building scalable AI solutions and improving ML models.<br>🗯️ Ask me about 🗯️ Ask me about Python, SQL, data analytics, machine learning, and AI projects.<br><br>📫 Connect with me:</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitreads) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitreads@icloud.com) 
 
